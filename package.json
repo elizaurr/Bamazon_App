@@ -1,0 +1,26 @@
+{
+  "name": "bamazon_app",
+  "version": "1.0.0",
+  "description": "amazon based app using mysql",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizaurr/Bamazon_App.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Elizaur Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizaurr/Bamazon_App/issues"
+  },
+  "homepage": "https://github.com/elizaurr/Bamazon_App#readme",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
